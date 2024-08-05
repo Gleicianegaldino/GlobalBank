@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import Video from '../videos/video.mp4';
 import { Button } from '../ButtonElements';
-import { IoArrowForward } from 'react-icons/io5';
-import { BsArrowRight } from 'react-icons/bs';
 import { HeroContainer, 
          HeroBg, 
          VideoBg,

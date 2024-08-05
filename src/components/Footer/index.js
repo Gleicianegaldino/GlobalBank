@@ -39,7 +39,7 @@ function Footer() {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/">GlobalBank</SocialLogo>
-            <WebsiteRights>GlobalBank © {new Date().getFullYear()}</WebsiteRights>
+            <WebsiteRights>Gleiciane Galdino © {new Date().getFullYear()}</WebsiteRights>
             <SocialIcons>
               <SocialIconsLink href="/" target="_blank" aria-label="Facebook"><FaFacebook /></SocialIconsLink>
               <SocialIconsLink href="/" target="_blank" aria-label="Instagram"><FaInstagram /></SocialIconsLink>
