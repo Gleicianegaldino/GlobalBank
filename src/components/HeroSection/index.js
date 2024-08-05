@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Video from '../videos/video.mp4';
-import { Button } from 'react-scroll';
+import { Button } from '../ButtonElements';
 import { IoArrowForward } from 'react-icons/io5';
 import { BsArrowRight } from 'react-icons/bs';
 import { HeroContainer, 
@@ -29,9 +29,9 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1> Banco Virtual fácil de usar</HeroH1>
-        <HeroP>djkdk jkjddjkd jfsdj</HeroP>
+        <HeroP>Crie sua conta hoje e aproveite $4000 de crédito para o próximo pagamento.</HeroP>
         <HeroBtnWrapper>
-           <Button to='cadastro' onMouseEnter={onHover} onMouseLeave={onHover}>
+           <Button to='cadastro' onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true">
                 Clique aqui para começar {hover ? <ArrowForward /> : <ArrowRight/> }
            </Button>
         </HeroBtnWrapper>
