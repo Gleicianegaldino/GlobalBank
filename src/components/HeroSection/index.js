@@ -27,7 +27,7 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1> Banco Virtual fácil de usar</HeroH1>
-        <HeroP>Crie sua conta hoje e aproveite $4000 de crédito para o próximo pagamento.</HeroP>
+        <HeroP>Crie sua conta hoje e aproveite $1000 de crédito para o próximo pagamento.</HeroP>
         <HeroBtnWrapper>
            <Button to='cadastro' onMouseEnter={onHover} onMouseLeave={onHover} primary="true" dark="true">
                 Clique aqui para começar {hover ? <ArrowForward /> : <ArrowRight/> }
