@@ -5,4 +5,4 @@ Este projeto é um aplicativo de banco virtual desenvolvido com React.js, utiliz
 https://globalbank-gg.netlify.app/
 
 ## Preview
-![GlobalBack](https://github.com/user-attachments/assets/e31ee2a2-2eac-483e-aa70-e931930dafb3)
+![GlobalBack](https://github.com/user-attachments/assets/8b90442a-93ac-4905-ae7c-4a5d080c0c8d)
